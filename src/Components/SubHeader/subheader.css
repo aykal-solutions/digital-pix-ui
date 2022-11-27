@@ -1,0 +1,8 @@
+
+.sub-header{
+    font-weight: 500;
+    font-size: 23px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}

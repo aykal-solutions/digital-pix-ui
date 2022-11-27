@@ -1,0 +1,35 @@
+
+
+
+.u-button{
+    display: block;
+    font-family: 'OpenSans-Regular', 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+    color: #FFFFFF;
+    background-color: #dc817b;
+    /* width: 25%; */
+    /* text-align: center; */
+    /* display: flex;
+    flex-direction: column;
+    align-items: center; */
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    font-family: 'OpenSans-Regular', 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+    color: #FFFFFF;
+    background-color: #dc817b;
+    width: 25%;
+    border-radius: 5px;
+    border:none;
+    height: 40px;
+    margin-top: 20px;
+}

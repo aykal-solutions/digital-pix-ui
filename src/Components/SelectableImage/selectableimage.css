@@ -1,0 +1,35 @@
+.heart{
+    position: absolute;
+    padding:10px;
+    cursor: pointer;
+}
+
+.item{
+    /* width: 30px;
+    height: 30px; */
+    flex-basis: 15%;
+    border:1px solid red;
+    margin: 10px;
+    /* flex:1; */
+}
+
+.view-gallery{
+    /* display: flex;
+    align-items: flex-end;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    align-content: flex-end;
+    content: "+"; */
+    position: relative;
+    float: right;
+    margin-top: -20px;
+    margin-right: 5px;
+}
+
+.text {
+    position: absolute;
+    align-self: center;
+    padding: 2px;
+    box-sizing: border-box;
+    width: 100%;
+  }
